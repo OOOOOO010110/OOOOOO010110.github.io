@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://OOOOOO010110.github.io/</loc>
-    <lastmod>2025-06-20T12:15:29+08:00</lastmod>
+    <lastmod>2025-06-20T15:18:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,11 +20,11 @@
                 href="https://OOOOOO010110.github.io/"
                 />
   </url><url>
-    <loc>https://OOOOOO010110.github.io/p/myblog/</loc>
-    <lastmod>2025-06-20T12:15:29+08:00</lastmod>
+    <loc>https://OOOOOO010110.github.io/p/dd2/</loc>
+    <lastmod>2025-06-20T15:18:47+08:00</lastmod>
   </url><url>
     <loc>https://OOOOOO010110.github.io/post/</loc>
-    <lastmod>2025-06-20T12:15:29+08:00</lastmod>
+    <lastmod>2025-06-20T15:18:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,6 +40,15 @@
                 hreflang="zh-cn"
                 href="https://OOOOOO010110.github.io/post/"
                 />
+  </url><url>
+    <loc>https://OOOOOO010110.github.io/p/dd1/</loc>
+    <lastmod>2025-06-20T14:53:41+08:00</lastmod>
+  </url><url>
+    <loc>https://OOOOOO010110.github.io/p/dd/</loc>
+    <lastmod>2025-06-20T14:40:49+08:00</lastmod>
+  </url><url>
+    <loc>https://OOOOOO010110.github.io/p/myblog/</loc>
+    <lastmod>2025-06-20T12:15:29+08:00</lastmod>
   </url><url>
     <loc>https://OOOOOO010110.github.io/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
